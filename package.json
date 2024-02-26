@@ -1,0 +1,16 @@
+{
+  "name": "node-js",
+  "version": "1.0.0",
+  "description": "học để làm dự án",
+  "main": "index.js",
+  "scripts": {
+    "start":"nodemon index.js",
+    "test": "echo \"Error: no test speci,fied\" && exit 1"
+  },
+  "author": "Lâm Quế",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.1.0"
+  }
+}
